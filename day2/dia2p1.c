@@ -3,7 +3,7 @@
 #include <string.h>
 #include <stdint.h>
 
-#define BUFFER 1000
+#define BUFFER 100
 
 
 int verificar(uint64_t valor){
